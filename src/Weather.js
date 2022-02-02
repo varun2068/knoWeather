@@ -46,6 +46,7 @@ const dateBuilder = (d) =>{
             value={query}
             onKeyPress={search}
         />
+        
         </div>
             {(typeof weather.main !== "undefined" ) ? (
             <div className="main-2">
