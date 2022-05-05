@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/knoWeather/static/css/main.922e44c2.chunk.css",
+    "main.js": "/knoWeather/static/js/main.12e06c4d.chunk.js",
+    "main.js.map": "/knoWeather/static/js/main.12e06c4d.chunk.js.map",
+    "runtime-main.js": "/knoWeather/static/js/runtime-main.6a089280.js",
+    "runtime-main.js.map": "/knoWeather/static/js/runtime-main.6a089280.js.map",
+    "static/js/2.91839b8d.chunk.js": "/knoWeather/static/js/2.91839b8d.chunk.js",
+    "static/js/2.91839b8d.chunk.js.map": "/knoWeather/static/js/2.91839b8d.chunk.js.map",
+    "index.html": "/knoWeather/index.html",
+    "static/css/main.922e44c2.chunk.css.map": "/knoWeather/static/css/main.922e44c2.chunk.css.map",
+    "static/js/2.91839b8d.chunk.js.LICENSE.txt": "/knoWeather/static/js/2.91839b8d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/knoWeather/static/media/thunderstorm.2dc5197d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a089280.js",
+    "static/js/2.91839b8d.chunk.js",
+    "static/css/main.922e44c2.chunk.css",
+    "static/js/main.12e06c4d.chunk.js"
+  ]
+}
